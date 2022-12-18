@@ -1,0 +1,332 @@
+Creating a dataset and dataloader...
+Creating the model...
+
+bat_size =   1 
+optimizer = Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: False
+    lr: 0.1
+    maximize: False
+    weight_decay: 0
+)
+max_epochs =  10 
+lrn_rate = 0.100 
+Training the model...
+batch: 0
+loss: 4366.02197265625
+batch: 50
+loss: 6154.4404296875
+batch: 100
+loss: 6478.8896484375
+batch: 150
+loss: 6058.3896484375
+batch: 200
+loss: 5819.2470703125
+batch: 250
+loss: 6781.2138671875
+batch: 300
+loss: 5816.2353515625
+batch: 350
+loss: 5709.02197265625
+batch: 400
+loss: 5237.18408203125
+batch: 450
+loss: 5901.3203125
+batch: 500
+loss: 6972.65771484375
+batch: 550
+loss: 6125.12451171875
+batch: 600
+loss: 5593.2314453125
+batch: 650
+loss: 5190.61328125
+batch: 700
+loss: 6838.43701171875
+epoch =    0   loss = 4560034.5342
+batch: 0
+loss: 5358.20263671875
+batch: 50
+loss: 4392.283203125
+batch: 100
+loss: 5157.0712890625
+batch: 150
+loss: 6508.419921875
+batch: 200
+loss: 6640.1669921875
+batch: 250
+loss: 5335.63330078125
+batch: 300
+loss: 6189.36865234375
+batch: 350
+loss: 5559.55419921875
+batch: 400
+loss: 7537.20751953125
+batch: 450
+loss: 5575.8349609375
+batch: 500
+loss: 6115.81298828125
+batch: 550
+loss: 4529.45654296875
+batch: 600
+loss: 5910.5439453125
+batch: 650
+loss: 7993.3251953125
+batch: 700
+loss: 6459.60888671875
+epoch =    1   loss = 4152131.5269
+batch: 0
+loss: 4886.94140625
+batch: 50
+loss: 5830.619140625
+batch: 100
+loss: 5153.02294921875
+batch: 150
+loss: 6359.439453125
+batch: 200
+loss: 4796.716796875
+batch: 250
+loss: 5857.40283203125
+batch: 300
+loss: 4928.90087890625
+batch: 350
+loss: 6839.78759765625
+batch: 400
+loss: 5221.94775390625
+batch: 450
+loss: 4637.80908203125
+batch: 500
+loss: 6009.61474609375
+batch: 550
+loss: 5550.396484375
+batch: 600
+loss: 6290.4736328125
+batch: 650
+loss: 6466.27587890625
+batch: 700
+loss: 5197.1982421875
+epoch =    2   loss = 4079484.3984
+batch: 0
+loss: 4855.3115234375
+batch: 50
+loss: 5778.763671875
+batch: 100
+loss: 5937.591796875
+batch: 150
+loss: 4256.31005859375
+batch: 200
+loss: 4900.38330078125
+batch: 250
+loss: 4461.77880859375
+batch: 300
+loss: 6145.69189453125
+batch: 350
+loss: 5178.43896484375
+batch: 400
+loss: 5144.8408203125
+batch: 450
+loss: 4171.6376953125
+batch: 500
+loss: 5034.63623046875
+batch: 550
+loss: 6879.69921875
+batch: 600
+loss: 6757.6640625
+batch: 650
+loss: 5525.28759765625
+batch: 700
+loss: 4249.51513671875
+epoch =    3   loss = 4038049.4656
+batch: 0
+loss: 4937.38671875
+batch: 50
+loss: 4998.1865234375
+batch: 100
+loss: 7030.2412109375
+batch: 150
+loss: 4747.546875
+batch: 200
+loss: 4986.9833984375
+batch: 250
+loss: 6478.8681640625
+batch: 300
+loss: 5350.626953125
+batch: 350
+loss: 5142.16357421875
+batch: 400
+loss: 5991.7353515625
+batch: 450
+loss: 4596.77685546875
+batch: 500
+loss: 6052.8544921875
+batch: 550
+loss: 6320.09716796875
+batch: 600
+loss: 4909.9248046875
+batch: 650
+loss: 4481.10888671875
+batch: 700
+loss: 7012.953125
+epoch =    4   loss = 4012103.5461
+batch: 0
+loss: 5708.7578125
+batch: 50
+loss: 4722.13671875
+batch: 100
+loss: 5397.88720703125
+batch: 150
+loss: 6309.0283203125
+batch: 200
+loss: 4946.16845703125
+batch: 250
+loss: 5651.17431640625
+batch: 300
+loss: 5159.4755859375
+batch: 350
+loss: 5006.125
+batch: 400
+loss: 5634.4658203125
+batch: 450
+loss: 6411.369140625
+batch: 500
+loss: 4575.33740234375
+batch: 550
+loss: 4741.99609375
+batch: 600
+loss: 5677.66162109375
+batch: 650
+loss: 5170.44970703125
+batch: 700
+loss: 4489.5732421875
+epoch =    5   loss = 3998957.2278
+batch: 0
+loss: 5063.1611328125
+batch: 50
+loss: 6258.83447265625
+batch: 100
+loss: 5664.8154296875
+batch: 150
+loss: 5251.47802734375
+batch: 200
+loss: 6081.337890625
+batch: 250
+loss: 5290.4345703125
+batch: 300
+loss: 4840.43212890625
+batch: 350
+loss: 5178.69677734375
+batch: 400
+loss: 4970.37109375
+batch: 450
+loss: 5957.30712890625
+batch: 500
+loss: 5979.5341796875
+batch: 550
+loss: 5132.35205078125
+batch: 600
+loss: 6581.29833984375
+batch: 650
+loss: 4901.16259765625
+batch: 700
+loss: 7731.974609375
+epoch =    6   loss = 3988578.0537
+batch: 0
+loss: 5986.14208984375
+batch: 50
+loss: 4690.35595703125
+batch: 100
+loss: 6258.1416015625
+batch: 150
+loss: 4834.11572265625
+batch: 200
+loss: 6073.18212890625
+batch: 250
+loss: 4751.302734375
+batch: 300
+loss: 7079.125
+batch: 350
+loss: 5727.0380859375
+batch: 400
+loss: 6047.57763671875
+batch: 450
+loss: 4721.1572265625
+batch: 500
+loss: 6171.87841796875
+batch: 550
+loss: 4438.0791015625
+batch: 600
+loss: 5672.0283203125
+batch: 650
+loss: 6164.560546875
+batch: 700
+loss: 4691.345703125
+epoch =    7   loss = 3973797.3557
+batch: 0
+loss: 4937.333984375
+batch: 50
+loss: 4996.11376953125
+batch: 100
+loss: 5211.259765625
+batch: 150
+loss: 4727.52392578125
+batch: 200
+loss: 4872.03271484375
+batch: 250
+loss: 5841.248046875
+batch: 300
+loss: 5717.4873046875
+batch: 350
+loss: 5184.2724609375
+batch: 400
+loss: 6173.75927734375
+batch: 450
+loss: 6000.23876953125
+batch: 500
+loss: 5400.4072265625
+batch: 550
+loss: 5318.52880859375
+batch: 600
+loss: 4877.39501953125
+batch: 650
+loss: 7154.53369140625
+batch: 700
+loss: 6341.25244140625
+epoch =    8   loss = 3966760.1279
+batch: 0
+loss: 6026.54248046875
+batch: 50
+loss: 5029.53564453125
+batch: 100
+loss: 4450.4765625
+batch: 150
+loss: 4762.94873046875
+batch: 200
+loss: 4711.84033203125
+batch: 250
+loss: 4778.44091796875
+batch: 300
+loss: 5921.29541015625
+batch: 350
+loss: 4467.736328125
+batch: 400
+loss: 5110.66943359375
+batch: 450
+loss: 4549.24658203125
+batch: 500
+loss: 5317.1640625
+batch: 550
+loss: 6069.935546875
+batch: 600
+loss: 5819.53271484375
+batch: 650
+loss: 6070.375
+batch: 700
+loss: 5409.92236328125
+epoch =    9   loss = 3952690.7280
+Done
+Computing the model accuracy
